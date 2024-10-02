@@ -1,0 +1,2 @@
+This is some sample content from the data file.
+It is read asynchronously using Node.js.
